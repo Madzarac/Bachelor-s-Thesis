@@ -1,5 +1,6 @@
 # Bachelor-s-Thesis
 Klasifikacija metagenomskog uzorka pomoću alata za mapiranje
+
 Metagenomika je relativno nova grana bioinformatike koja se bavi proučavanjem 
 genetskih uzoraka prikupljenih direktno iz okoliša te nam nudi mogućnost primjene 
 stečenog znanja u mnogim područjima, među kojima su medicina, agrikultura i ekologija. 
@@ -11,7 +12,10 @@ baze bakterija te se na njih mapiraju očitanja korištenjem alata minimap2. Nad
 mapiranjima provela se klasifikacija pomoću osmišljenog algoritma te su dobiveni rezultati 
 uspoređeni s rezultatima klasifikacije dobivenim uporabom alata Kraken2.
 
+
+
 Metagenomic sample classification using mapping tools
+
 Metagenomics is a relatively new branch of bioinformatics that focuses on studying 
 genetic samples collected directly from the environment. It has potential to be used to 
 improve various fields, such as medicine, agriculture and ecology. One of the fundamental
