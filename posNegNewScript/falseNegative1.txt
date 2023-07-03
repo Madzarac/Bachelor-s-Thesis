@@ -1,3 +1,0 @@
-Number of false negative reads: 0.
-
-id	correct_species_taxid	correct_genus_taxid	sam_species_taxid	sam_genus_taxid
